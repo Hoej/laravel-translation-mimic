@@ -1,6 +1,6 @@
 {
   "name": "laravel-translation-mimic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "translation functions that mimic the behaviour and syntax of laravel translation functions, assuming you have your translations available in window.i18n",
   "main": "index.js",
   "scripts": {
