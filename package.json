@@ -1,0 +1,15 @@
+{
+  "name": "laravel-translation-mimic",
+  "version": "1.0.0",
+  "description": "translation functions that mimic the behaviour and syntax of laravel translation functions, assuming you have your translations available in window.i18n",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "laravel",
+    "translation"
+  ],
+  "author": "Hoej.dk A/S",
+  "license": "MIT"
+}
